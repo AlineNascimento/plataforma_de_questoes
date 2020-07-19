@@ -7,28 +7,29 @@ Foi feito uma plataforma web capaz de fornecer questões de simulados à alunos 
 1. Para realização do Banco de Dados é necessário a existência de um servidor e de um sistema gerenciador da base.
 ---- Foi utilizado o Apache como servidor e interpretador da linguagem PHP e a partir da plataforma XAMPP com a ferramente PHPmyAdmin foi possível realizar o gerenciamento da base de dados junto com a execução do servidor. 
 Então:  
+
 	--> Faça o download do XAMPP (Foi utilizada a versão mais atualizada para Windows)
-		link_XAMPP: https://www.apachefriends.org/pt_br/download.html
+		link_XAMPP: **https://www.apachefriends.org/pt_br/download.html**
 	--> Execute-o como administrador e siga o tutorial deste link para a conexão do servidor ser realizada com sucesso. 
-		link_Tutor_XAMPP: https://pt.wikihow.com/Instalar-o-XAMPP-para-Windows
+		link_Tutor_XAMPP: **https://pt.wikihow.com/Instalar-o-XAMPP-para-Windows**
 	--> Se o controle de conta de Usuário(UAC), estiver desabilitado, evite instalar o Xampp no C://.
 
 Após a instalação, abra o Painel de Controle do XAMPP e realize e realize o download do Apache e MySQL, certifique-se que os dois estão habilitados a partir do "check verde" e ative-os. Três pontos são muito importantes após esse processo, sem eles não é possível a interpreção dos arquivos .php. 
 
-	Importante_1. Descompacte a pasta Teste_tecnico_saraivaeducacao.zip na pasta htdocs que se encontra dentro da instalação do XAMPP. 
+	**Importante_1.** Descompacte a pasta Teste_tecnico_saraivaeducacao.zip na pasta htdocs que se encontra dentro da instalação do XAMPP. 
 		caminho_1: ./xampp/htdocs/
 
 		--> htdocs é o LOCALHOST do servidor.
 
-	Importante_2. Se ao abrir o arquivo no navegador, e o arquivo não for interpretado, ou seja, apenas o código aparecer, troque na barra de navegação os seguintes elementos:
+	**Importante_2.** Se ao abrir o arquivo no navegador, e o arquivo não for interpretado, ou seja, apenas o código aparecer, troque na barra de navegação os seguintes elementos:
 
 		file:///C:/xampp/htdocs = localhost
 exemplo:
-		--> Caminho_inicial: file:///C:/xampp/htdocs/Teste_tecnico_saraivaeducacao/index.php
+		--> Caminho_inicial: **file:///C:/xampp/htdocs/Teste_tecnico_saraivaeducacao/index.php**
 
-		--> Caminho_final: http://localhost/Teste_tecnico_saraivaeducacao/index.php
+		--> Caminho_final: **http://localhost/Teste_tecnico_saraivaeducacao/index.php**
 
-	Importante_3. Abra o PhpMyAdmin.
+	**Importante_3.** Abra o PhpMyAdmin.
 
  **Etapas da aplicação realizadas localmente**
 
