@@ -38,4 +38,4 @@ exemplo:
 
 3. Abra o arquivo index.php no navegador e assim será visto a plataforma de questões. Se aparecer o código, faça o 'Importante_2' acima, se a realização desse não ser o bastante e continuar aparecendo o código, confira se o Apache e MySQL estão habilitados e ativos. Se ainda não conseguir vizualizar a plataforma, repita todo o procedimento acima. (Lembrando que o XAMPP sempre tem que ser executado a partir do administrador)
 
-4.Para mais detalhes da execução, veja a documentação nos códigos (arquivos bancodedados.php, index.php, scriptAvaliacao.sql) e no arquivo de testes realizados 'Testes.md'.
+4. Para mais detalhes da execução, veja a documentação nos códigos (arquivos bancodedados.php, index.php, scriptAvaliacao.sql) e no arquivo de testes realizados 'Testes.md'.
