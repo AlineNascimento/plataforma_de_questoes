@@ -1,4 +1,4 @@
-Teste Técnico - Saraiva Educação
+
 
 Foi realizado uma plataforma web capaz de fornecer questões de simulados à alunos de uma instituição fictícia. Para a realização da plataforma utilizou-se como linguagem de interprestação e comunicação com o banco de dados, o PHP. Utilizou-se o banco de dados MySQL para armazenamento dos arquivos, além das linguagens de formatação e estilo, HTML5 e CSS, respectivamente.
 
