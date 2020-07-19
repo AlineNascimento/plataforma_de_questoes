@@ -1,13 +1,13 @@
 
 
-Foi realizado uma plataforma web capaz de fornecer questões de simulados à alunos de uma instituição fictícia. Para a realização da plataforma utilizou-se como linguagem de interprestação e comunicação com o banco de dados, o PHP. Utilizou-se o banco de dados MySQL para armazenamento dos arquivos, além das linguagens de formatação e estilo, HTML5 e CSS, respectivamente.
+Foi feito uma plataforma web capaz de fornecer questões de simulados à alunos de uma instituição fictícia. Para a realização da plataforma utilizou-se como linguagem de interpretação e comunicação com o banco de dados, o PHP. Utilizou-se o banco de dados MySQL para armazenamento dos arquivos, além das linguagens de formatação e estilo, HTML5 e CSS, respectivamente.
 
 -------- Ferramentas e Softwares necessários -------------
 ---------- para funcionamento da aplicação ---------------
 -------------------- localmente --------------------------
 
 1. Para realização do Banco de Dados é necessário a existência de um servidor e de um sistema gerenciador da base.
----- Foi utilizando o Apache como servidor e interpretador da linguagem PHP e a partir da plataforma XAMPP com a ferramente PHPmyAdmin foi possível realizar o gerenciamento da base de dados junto com a execução do servidor. 
+---- Foi utilizado o Apache como servidor e interpretador da linguagem PHP e a partir da plataforma XAMPP com a ferramente PHPmyAdmin foi possível realizar o gerenciamento da base de dados junto com a execução do servidor. 
 Então:  
 	--> Faça o download do XAMPP (Foi utilizada a versão mais atualizada para Windows)
 		link_XAMPP: https://www.apachefriends.org/pt_br/download.html
